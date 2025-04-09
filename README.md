@@ -51,3 +51,7 @@ Tech products dominate profits	Focus on inventory & promotions
 Discounts → Negative profit in Furniture	Reduce aggressive discounting
 November peak sales	Align campaigns & supply
 Losses in TX & IL	Investigate fulfillment or pricing
+
+[task 2.pdf](https://github.com/user-attachments/files/19672549/task.2.pdf)
+
+
